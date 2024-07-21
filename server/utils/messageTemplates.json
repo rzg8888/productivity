@@ -1,0 +1,5 @@
+{
+  "newTask": "📬 *NUEVA TAREA:* *{title}* \n📗 Descripción: {description}.\n🗓️ Día: {date}\n🕐 Hora: *{time}*\n📄 Info: {url}",
+  "updateTask": "📋 La TAREA  *{title}* ha sido *ACTUALIZADA*. \n📕 Descripción: *{description}*.\n🗓️ Fecha: *{date}*\n🕐 Hora: *{time}*.\n📄 Info: {url}",
+  "reminder": "📍 *RECORDATORIO*:\n📗 Tarea: *{title}*\n📝 Descripción: {description}\n📆 Fecha:{date}\n🕐 Hora: *AHORA MISMO*.\n📄 Info: {url}"
+}
